@@ -1,3 +1,6 @@
 node_modules/
 dist/
+<<<<<<< HEAD
 *.log
+=======
+>>>>>>> f6d7ba230e2e1f2e4c09b0a6c188f8843c4a1b3a
