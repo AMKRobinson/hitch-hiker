@@ -1,0 +1,19 @@
+{
+  "name": "hitch-hiker",
+  "version": "1.0.0",
+  "description": "hitch hiking app for non profit organizations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AMKRobinson/hitch-hiker.git"
+  },
+  "author": "Anthony Robinson, Ian McCunn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AMKRobinson/hitch-hiker/issues"
+  },
+  "homepage": "https://github.com/AMKRobinson/hitch-hiker#readme"
+}
